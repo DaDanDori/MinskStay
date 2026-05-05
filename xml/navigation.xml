@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Структура разделов сайта (дополнение к HTML5; данные отелей — hotels.xml) -->
+<navigation>
+  <section id="main">
+    <item href="index.html" title="Главная"/>
+    <item href="catalog.html" title="Каталог отелей"/>
+    <item href="hotel.html" title="Карточка отеля" note="Параметр id в query"/>
+    <item href="booking-rules.html" title="Правила бронирования"/>
+    <item href="about.html" title="О компании"/>
+    <item href="contact.html" title="Контакты"/>
+  </section>
+</navigation>
