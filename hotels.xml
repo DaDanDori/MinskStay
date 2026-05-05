@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+  <hotel id="1">
+    <name>President Hotel</name>
+    <nameRu>Отель Президент</nameRu>
+    <stars>5</stars>
+    <price>250</price>
+    <currency>BYN</currency>
+    <address>ул. Кирова, 18, Минск</address>
+    <district>Центральный</district>
+    <lat>53.8985</lat>
+    <lng>27.5515</lng>
+    <description>Роскошный пятизвёздочный отель в самом центре Минска. Идеальное расположение рядом с основными достопримечательностями города. Современные номера, спа-центр, ресторан высокой кухни и конференц-залы.</description>
+    <amenities>Wi-Fi,Спа,Ресторан,Парковка,Бассейн,Конференц-зал</amenities>
+    <rating>4.8</rating>
+    <reviews>342</reviews>
+    <images>
+      <image>images\hotel_president1.jpg</image>
+      <image>images\hotel_president2.jpg</image>
+      <image>images\hotel_president3.jpg</image>
+    </images>
+    <category>luxury</category>
+    <type>hotel</type>
+    <distanceCenter>0.5</distanceCenter>
+  </hotel>
+  <hotel id="2">
+    <name>Minsk Marriott Hotel</name>
+    <nameRu>Минск Марриотт Отель</nameRu>
+    <stars>5</stars>
+    <price>220</price>
+    <currency>BYN</currency>
+    <address>пр. Победителей, 20, Минск</address>
+    <district>Центральный</district>
+    <lat>53.9100</lat>
+    <lng>27.5480</lng>
+    <description>Современный отель международной сети с великолепным видом на город. Просторные номера, фитнес-центр, несколько ресторанов и баров.</description>
+    <amenities>Wi-Fi,Фитнес,Ресторан,Парковка,Бар,Трансфер</amenities>
+    <rating>4.7</rating>
+    <reviews>287</reviews>
+    <images>
+      <image>images\minsk_marriot1.jpg</image>
+      <image>images\minsk_marriot2.jpg</image>
+      <image>images\minsk_marriot3.jpg</image>
+    </images>
+    <category>luxury</category>
+    <type>hotel</type>
+    <distanceCenter>1.2</distanceCenter>
+  </hotel>
+  <hotel id="3">
+    <name>DoubleTree by Hilton</name>
+    <nameRu>ДаблТри от Хилтон</nameRu>
+    <stars>4</stars>
+    <price>160</price>
+    <currency>BYN</currency>
+    <address>пр. Победителей, 9, Минск</address>
+    <district>Центральный</district>
+    <lat>53.9060</lat>
+    <lng>27.5440</lng>
+    <description>Комфортабельный четырёхзвёздочный отель на берегу реки Свислочь. Отличное расположение для бизнес-путешественников и туристов.</description>
+    <amenities>Wi-Fi,Фитнес,Ресторан,Парковка,Бар</amenities>
+    <rating>4.5</rating>
+    <reviews>198</reviews>
+    <images>
+      <image>images\DoubleTree1.jpg</image>
+      <image>images\DoubleTree2.jpg</image>
+      <image>images\DoubleTree3.jpg</image>
+    </images>
+    <category>business</category>
+    <type>hotel</type>
+    <distanceCenter>0.8</distanceCenter>
+  </hotel>
+  <hotel id="4">
+    <name>Hampton by Hilton</name>
+    <nameRu>Хэмптон от Хилтон</nameRu>
+    <stars>3</stars>
+    <price>95</price>
+    <currency>BYN</currency>
+    <address>ул. Толстого, 4, Минск</address>
+    <district>Первомайский</district>
+    <lat>53.9200</lat>
+    <lng>27.5870</lng>
+    <description>Современный и доступный отель сети Hilton. Отличный выбор для путешественников, которые ценят комфорт по разумной цене. Бесплатный завтрак включён.</description>
+    <amenities>Wi-Fi,Завтрак,Парковка,Фитнес</amenities>
+    <rating>4.3</rating>
+    <reviews>156</reviews>
+    <images>
+      <image>/images/hotel3.jpg</image>
+      <image>/images/hotel1.jpg</image>
+      <image>/images/hotel2.jpg</image>
+    </images>
+    <category>budget</category>
+    <type>hotel</type>
+    <distanceCenter>3.5</distanceCenter>
+  </hotel>
+  <hotel id="5">
+    <name>Renaissance Minsk Hotel</name>
+    <nameRu>Ренессанс Минск Отель</nameRu>
+    <stars>5</stars>
+    <price>200</price>
+    <currency>BYN</currency>
+    <address>пр. Дзержинского, 1Е, Минск</address>
+    <district>Московский</district>
+    <lat>53.8760</lat>
+    <lng>27.4970</lng>
+    <description>Элегантный отель с изысканным дизайном интерьеров. Идеальное место для особых случаев и романтических поездок. Ресторан с авторской кухней.</description>
+    <amenities>Wi-Fi,Спа,Ресторан,Парковка,Бассейн,Бар</amenities>
+    <rating>4.6</rating>
+    <reviews>231</reviews>
+    <images>
+      <image>images\renaissance1.jpg</image>
+      <image>images\renaissance2.jpg</image>
+      <image>images\renaissance3.jpg</image>
+    </images>
+    <category>luxury</category>
+    <type>hotel</type>
+    <distanceCenter>4.0</distanceCenter>
+  </hotel>
+  <hotel id="6">
+    <name>Garni Hotel</name>
+    <nameRu>Гарни Отель</nameRu>
+    <stars>3</stars>
+    <price>75</price>
+    <currency>BYN</currency>
+    <address>ул. Городской Вал, 9, Минск</address>
+    <district>Центральный</district>
+    <lat>53.9010</lat>
+    <lng>27.5560</lng>
+    <description>Уютный бутик-отель в историческом центре Минска. Домашняя атмосфера, стильные номера и внимательный персонал. Рядом с Троицким предместьем.</description>
+    <amenities>Wi-Fi,Завтрак,Трансфер</amenities>
+    <rating>4.4</rating>
+    <reviews>89</reviews>
+    <images>
+      <image>images\garny.jpg</image>
+      <image>images\garny2.jpg</image>
+      <image>images\garny3.jpg</image>
+    </images>
+    <category>budget</category>
+    <type>hostel</type>
+    <distanceCenter>0.3</distanceCenter>
+  </hotel>
+  <hotel id="7">
+    <name>Crowne Plaza Minsk</name>
+    <nameRu>Краун Плаза Минск</nameRu>
+    <stars>4</stars>
+    <price>180</price>
+    <currency>BYN</currency>
+    <address>ул. Кирова, 13, Минск</address>
+    <district>Центральный</district>
+    <lat>53.8975</lat>
+    <lng>27.5500</lng>
+    <description>Элегантный бизнес-отель в историческом центре. Прекрасное расположение для деловых поездок и осмотра достопримечательностей.</description>
+    <amenities>Wi-Fi,Фитнес,Ресторан,Парковка,Конференц-зал,Бар</amenities>
+    <rating>4.4</rating>
+    <reviews>175</reviews>
+    <images>
+      <image>images/crowne1.jpg</image>
+      <image>images/crowne2.jpg</image>
+      <image>images/crowne3.jpg</image>
+    </images>
+    <category>business</category>
+    <type>hotel</type>
+    <distanceCenter>0.6</distanceCenter>
+  </hotel>
+  <hotel id="8">
+    <name>Victoria Hotel</name>
+    <nameRu>Отель Виктория</nameRu>
+    <stars>4</stars>
+    <price>140</price>
+    <currency>BYN</currency>
+    <address>пр. Победителей, 59, Минск</address>
+    <district>Первомайский</district>
+    <lat>53.9250</lat>
+    <lng>27.5200</lng>
+    <description>Уютный отель с прекрасным видом на Минское море. Идеален для семейного отдыха и романтических выходных.</description>
+    <amenities>Wi-Fi,Ресторан,Парковка,Бассейн,Спа</amenities>
+    <rating>4.2</rating>
+    <reviews>134</reviews>
+    <images>
+      <image>images/Victorya3.jpg</image>
+      <image>images/Victorya1.jpg</image>
+      <image>images/Victorya2.jpg</image>
+    </images>
+    <category>business</category>
+    <type>apartment</type>
+    <distanceCenter>5.0</distanceCenter>
+  </hotel>
+  <hotel id="9">
+    <name>East Time Hotel</name>
+    <nameRu>Ист Тайм Отель</nameRu>
+    <stars>3</stars>
+    <price>65</price>
+    <currency>BYN</currency>
+    <address>ул. Ленина, 3, Минск</address>
+    <district>Ленинский</district>
+    <lat>53.8930</lat>
+    <lng>27.5550</lng>
+    <description>Бюджетный отель с отличным расположением в центре. Чистые номера, приветливый персонал и все необходимое для комфортного проживания.</description>
+    <amenities>Wi-Fi,Завтрак,Парковка</amenities>
+    <rating>4.1</rating>
+    <reviews>67</reviews>
+    <images>
+      <image>images\EastTime1.jpg</image>
+      <image>images\EastTime2.jpg</image>
+      <image>images\EastTime3.jpg</image>
+    </images>
+    <category>budget</category>
+    <type>hostel</type>
+    <distanceCenter>1.0</distanceCenter>
+  </hotel>
+  <hotel id="10">
+    <name>Beijing Hotel Minsk</name>
+    <nameRu>Пекин Отель Минск</nameRu>
+    <stars>4</stars>
+    <price>195</price>
+    <currency>BYN</currency>
+    <address>ул. Красноармейская, 36, Минск</address>
+    <district>Центральный</district>
+    <lat>53.8995</lat>
+    <lng>27.5580</lng>
+    <description>Китайский стиль сервиса и просторные номера в шаге от площади Победы. Подходит для туристов и деловых гостей.</description>
+    <amenities>Wi-Fi,Ресторан,Парковка,Фитнес,Трансфер,Конференц-зал</amenities>
+    <rating>4.5</rating>
+    <reviews>412</reviews>
+    <images>
+      <image>images/h1.jpg</image>
+      <image>images/h2.jpg</image>
+      <image>images/h3.jpg</image>
+    </images>
+    <category>business</category>
+    <type>hotel</type>
+    <distanceCenter>0.4</distanceCenter>
+  </hotel>
+  <hotel id="11">
+    <name>Europe Hotel</name>
+    <nameRu>Отель Европа</nameRu>
+    <stars>5</stars>
+    <price>285</price>
+    <currency>BYN</currency>
+    <address>ул. Кирова, 8, Минск</address>
+    <district>Центральный</district>
+    <lat>53.8978</lat>
+    <lng>27.5495</lng>
+    <description>Исторический фасад и современные апартаменты в сердце города. Роскошные люксы и персональный консьерж.</description>
+    <amenities>Wi-Fi,Спа,Ресторан,Парковка,Бассейн,Бар,Трансфер</amenities>
+    <rating>4.9</rating>
+    <reviews>521</reviews>
+    <images>
+      <image>images/Europe.jpg</image>
+      <image>images/Europe2.jpg</image>
+      <image>images/Europe3.jpg</image>
+    </images>
+    <category>luxury</category>
+    <type>hotel</type>
+    <distanceCenter>0.45</distanceCenter>
+  </hotel>
+  <hotel id="12">
+    <name>Monastyrski Hotel</name>
+    <nameRu>Монастырский Отель</nameRu>
+    <stars>4</stars>
+    <price>155</price>
+    <currency>BYN</currency>
+    <address>ул. Кирилла и Мефодия, 6, Минск</address>
+    <district>Центральный</district>
+    <lat>53.9035</lat>
+    <lng>27.5590</lng>
+    <description>Бутик-отель в Троицком предместье с видом на реку. Тихие номера и завтрак с местными продуктами.</description>
+    <amenities>Wi-Fi,Завтрак,Ресторан,Парковка,Бар</amenities>
+    <rating>4.6</rating>
+    <reviews>203</reviews>
+    <images>
+      <image>images/Monastyr1.jpg</image>
+      <image>images/Monastyr2.jpg</image>
+      <image>images/Monastyr3.jpg</image>
+    </images>
+    <category>business</category>
+    <type>hotel</type>
+    <distanceCenter>0.7</distanceCenter>
+  </hotel>
+  <hotel id="13">
+    <name>Urban Hostel Minsk</name>
+    <nameRu>Арбан Хостел</nameRu>
+    <stars>2</stars>
+    <price>45</price>
+    <currency>BYN</currency>
+    <address>ул. Комсомольская, 13, Минск</address>
+    <district>Ленинский</district>
+    <lat>53.8905</lat>
+    <lng>27.5520</lng>
+    <description>Капсульные номера и общие кухни для молодых путешественников. Рядом вокзал и метро «Площадь Ленина».</description>
+    <amenities>Wi-Fi,Кухня,Стиральная машина,Завтрак</amenities>
+    <rating>4.0</rating>
+    <reviews>312</reviews>
+    <images>
+      <image>images/Urban1.jpg</image>
+      <image>images/Urban2.jpg</image>
+      <image>images/Urban3.jpg</image>
+
+    </images>
+    <category>budget</category>
+    <type>hostel</type>
+    <distanceCenter>1.5</distanceCenter>
+  </hotel>
+  <hotel id="14">
+    <name>Hostel Belarus</name>
+    <nameRu>Гостиница Беларцсь</nameRu>
+    <stars>3</stars>
+    <price>120</price>
+    <currency>BYN</currency>
+    <address>Сторовожская улица, 15, Минск</address>
+    <district>Центральный</district>
+    <lat>53.9300</lat>
+    <lng>27.5950</lng>
+    <description>Апартаменты с кухней и панорамными окнами. Удобно для семей и длительного проживания.</description>
+    <amenities>Wi-Fi,Кухня,Парковка,Стиральная машина</amenities>
+    <rating>5</rating>
+    <reviews>6060</reviews>
+    <images>
+      <image>images/Belarus1.jpg</image>
+      <image>images/Belarus2.jpg</image>
+      <image>images/Belarus3.jpg</image>
+    </images>
+    <category>business</category>
+    <type>apartment</type>
+    <distanceCenter>4.2</distanceCenter>
+  </hotel>
+  <hotel id="15">
+    <name>Green City Hotel</name>
+    <nameRu>Грин Сити Отель</nameRu>
+    <stars>3</stars>
+    <price>88</price>
+    <currency>BYN</currency>
+    <address>ул. Притыцкого, 62, Минск</address>
+    <district>Фрунзенский</district>
+    <lat>53.9080</lat>
+    <lng>27.4780</lng>
+    <description>Спокойный район, зелёный двор и семейные номера. Хорошая транспортная доступность к центру.</description>
+    <amenities>Wi-Fi,Парковка,Завтрак,Детская площадка</amenities>
+    <rating>4.2</rating>
+    <reviews>94</reviews>
+    <images>
+      <image>images/GreenHotel1.jpg</image>
+      <image>images/GreenHotel2.jpg</image>
+      <image>images/GreenHotel3.jpg</image>
+
+    </images>
+    <category>budget</category>
+    <type>hotel</type>
+    <distanceCenter>6.5</distanceCenter>
+  </hotel>
+  <hotel id="16">
+    <name>Willow Tree Hotel</name>
+    <nameRu>Отель Ива</nameRu>
+    <stars>4</stars>
+    <price>168</price>
+    <currency>BYN</currency>
+    <address>ул. Раковская, 18, Минск</address>
+    <district>Центральный</district>
+    <lat>53.9045</lat>
+    <lng>27.5620</lng>
+    <description>Дизайн-отель с террасой и авторским кафе. Пешком до Немиги и Верхнего города.</description>
+    <amenities>Wi-Fi,Ресторан,Бар,Парковка,Трансфер</amenities>
+    <rating>4.55</rating>
+    <reviews>156</reviews>
+    <images>
+      <image>images/Minsk2.jpg</image>
+      <image>images/Minsk1.jpg</image>
+      <image>images/Minsk3.jpg</image>
+    </images>
+    <category>business</category>
+    <type>hotel</type>
+    <distanceCenter>0.9</distanceCenter>
+  </hotel>
+  <hotel id="17">
+    <name>Airport Stay Minsk</name>
+    <nameRu>Эйрпорт Стэй</nameRu>
+    <stars>3</stars>
+    <price>72</price>
+    <currency>BYN</currency>
+    <address>ул. Бровки, 4, Минск</address>
+    <district>Ленинский</district>
+    <lat>53.8640</lat>
+    <lng>27.6740</lng>
+    <description>15 минут до аэропорта, круглосуточная стойка и трансфер. Оптимально для ранних рейсов.</description>
+    <amenities>Wi-Fi,Трансфер,Завтрак,Парковка</amenities>
+    <rating>4.15</rating>
+    <reviews>441</reviews>
+    <images>
+      <image>images/Airport1.jpg</image>
+      <image>images/Airport2.jpg</image>
+      <image>images/Airport3.jpg</image>
+    </images>
+    <category>budget</category>
+    <type>hotel</type>
+    <distanceCenter>12.0</distanceCenter>
+  </hotel>
+  <hotel id="18">
+    <name>Grand Spa Resort Minsk</name>
+    <nameRu>Гранд Спа Резорт</nameRu>
+    <stars>5</stars>
+    <price>310</price>
+    <currency>BYN</currency>
+    <address>ул. Сурганова, 57, Минск</address>
+    <district>Советский</district>
+    <lat>53.9220</lat>
+    <lng>27.6020</lng>
+    <description>Премиальный комплекс с термальной зоной, саунами и открытым бассейном. Идеален для wellness-отдыха.</description>
+    <amenities>Wi-Fi,Спа,Бассейн,Ресторан,Парковка,Фитнес,Бар</amenities>
+    <rating>4.85</rating>
+    <reviews>267</reviews>
+    <images>
+      <image>images/Grand1.jpg</image>
+      <image>images/Grand2.jpg</image>
+      <image>images/Grand3.jpg</image>
+    </images>
+    <category>luxury</category>
+    <type>hotel</type>
+    <distanceCenter>3.8</distanceCenter>
+  </hotel>
+</hotels>

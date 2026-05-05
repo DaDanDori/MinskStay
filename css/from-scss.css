@@ -1,0 +1,75 @@
+@keyframes hero-css-fade {
+  0%, 26% {
+    opacity: 1;
+  }
+  33%, 100% {
+    opacity: 0;
+  }
+}
+.hero--css-slides .hero__slides--css {
+  position: absolute;
+  inset: 0;
+}
+
+.hero__slide-css {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  animation: hero-css-fade 12s infinite;
+}
+.hero__slide-css:nth-child(1) {
+  animation-delay: 0s;
+}
+.hero__slide-css:nth-child(2) {
+  animation-delay: 4s;
+}
+.hero__slide-css:nth-child(3) {
+  animation-delay: 8s;
+}
+
+.hotel-gallery--static {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+  min-height: auto;
+  padding: 0;
+  background: var(--muted);
+}
+.hotel-gallery--static img {
+  position: relative;
+  width: 100%;
+  height: 14rem;
+  object-fit: cover;
+  display: block;
+}
+@media (max-width: 767px) {
+  .hotel-gallery--static {
+    grid-template-columns: 1fr;
+  }
+}
+
+.why-card {
+  transition: transform 0.25s ease, border-color 0.25s ease;
+}
+.why-card:hover {
+  transform: translateY(-4px);
+  border-color: hsla(0, 0%, 100%, 0.2);
+}
+
+.review-card {
+  transition: box-shadow 0.3s ease;
+}
+.review-card:hover {
+  box-shadow: 0 8px 24px hsla(0, 0%, 0%, 0.08);
+}
+
+.faq-details {
+  transition: border-color 0.2s ease;
+}
+.faq-details:hover {
+  border-color: hsla(24, 75%, 48%, 0.35);
+}
+
